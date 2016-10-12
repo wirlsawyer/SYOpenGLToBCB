@@ -1,0 +1,9 @@
+LIBRARY	"SampleApp"
+
+EXPORTS
+		TestAdd					@1
+		InitOpengl				@2
+		RenderOpengl			@3
+		OnOpenglMouseDown		@4
+		OnOpenglMouseMove		@5
+		OnOpenglMouseUp			@6
